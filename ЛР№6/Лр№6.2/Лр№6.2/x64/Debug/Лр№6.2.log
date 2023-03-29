@@ -1,0 +1,5 @@
+﻿  Лр№6.2.cpp
+C:\Users\Yana\Desktop\Zavdania\Лр№6.2\Лр№6.2\Лр№6.2.cpp(30,25): warning C4584: Derived5: базовый класс "Base" уже является базовым классом для "Derived3"
+C:\Users\Yana\Desktop\Zavdania\Лр№6.2\Лр№6.2\Лр№6.2.cpp(5,7): message : см. объявление "Base"
+C:\Users\Yana\Desktop\Zavdania\Лр№6.2\Лр№6.2\Лр№6.2.cpp(20,7): message : см. объявление "Derived3"
+  Лр№6.2.vcxproj -> C:\Users\Yana\Desktop\Zavdania\Лр№6.2\x64\Debug\Лр№6.2.exe
